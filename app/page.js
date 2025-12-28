@@ -123,8 +123,8 @@ export default function Home() {
       </section>
 
       {/* ───── Testimonials ───── */}
-      <section className="bg-gray-50 py-20">
-        <div className="container mx-auto px-4 md:px-6 text-center">
+      <section className="bg-amber-500 py-20">
+        <div className="container mx-auto px-4 md:px-6 text-center ">
           <Badge variant="outline" className="bg-green-100 text-green-700">
             Testimonials
           </Badge>
@@ -158,7 +158,7 @@ export default function Home() {
       </section>
 
       {/* ───── Call‑to‑Action ───── */}
-      <section className="py-20 gradient">
+      <section className="py-20 gradient bg-amber-300">
         <div className="container mx-auto px-4 md:px-6 text-center space-y-6">
           <h2 className="text-3xl font-extrabold tracking-tight md:text-4xl text-black">
             Ready to simplify expense sharing?
